@@ -1,8 +1,7 @@
-		
-		**0x16. C - Simple Shell**
+		SIMPLE SHELL GROUP PROJECT
 
-	Author: Maggie Wanjiru github.com/
-		Stan Anyumba github.com/AnyumbaKE
+	Author: Maggie Wanjiru https://www.github.com/
+		Stan Anyumba https://www.github.com/AnyumbaKE
 
 Duration: 9th August - 24th August 2023
 
