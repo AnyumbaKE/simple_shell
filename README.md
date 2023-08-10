@@ -1,7 +1,7 @@
 		SIMPLE SHELL GROUP PROJECT
 
-	Author: Maggie Wanjiru https://www.github.com/
-		Stan Anyumba https://www.github.com/AnyumbaKE
+	Author: Maggie Wanjiru @
+		Stan Anyumba @AnyumbaKE
 
 Duration: 9th August - 24th August 2023
 
