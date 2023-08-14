@@ -1,5 +1,6 @@
-		
-		**0x16. C - Simple Shell**
+
+		*SIMPLE SHELL GROUP PROJECT*
+
 
 	Author: Maggie Wanjiru
 		Stan Anyumba
