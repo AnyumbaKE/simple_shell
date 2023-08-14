@@ -1,5 +1,5 @@
 
-		*SIMPLE SHELL GROUP PROJECT*
+		SIMPLE SHELL GROUP PROJECT
 
 
 	Author: Maggie Wanjiru
