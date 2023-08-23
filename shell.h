@@ -72,4 +72,4 @@ char *_getenv(const char *name);
 char **copy_env(char **environ_copy, unsigned int environ_length);
 list_s *pathlist(char *variable, list_s *head);
 
-#endif 
+#endif
