@@ -2,9 +2,9 @@
 
 /**
  * main - uses getline and prints line
- * Return: 0
- */
-int main (void)
+ * Return: 0 Always
+ **/
+int main(void)
 {
 	char *line = NULL;
 
