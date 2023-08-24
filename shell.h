@@ -92,7 +92,7 @@ typedef struct builtin_s
 	int (*f)(data_shell *datash);
 } builtin_t;
 
-/* lists fuctions */
+/* lists functions */
 sep_list *add_sep_node_end(sep_list **head, char sep);
 void free_sep_list(sep_list **head);
 line_list *add_line_node_end(line_list **head, char *line);
@@ -139,7 +139,7 @@ int get_error(data_shell *datash, int eval);
 char *without_comment(char *in);
 void shell_loop(data_shell *datash);
 
-/* break fuctions */
+/* break functions */
 char *swap_char(char *input, int bool);
 void add_nodes(sep_list **head_s, line_list **head_l, char *input);
 void go_next(sep_list **list_s, line_list **list_l, data_shell *datash);
@@ -183,7 +183,6 @@ int exit_shell(data_shell *datash);
 
 /* built-in function */
 int (*get_builtin(char *cmd))(data_shell *datash);
-
 
 /* library functions */
 int get_len(int n);
