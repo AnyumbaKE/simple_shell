@@ -2,7 +2,7 @@
 
 /**
  * get_help - a function that retrieves help messages according to builtin
- * @datash: data structure
+ * @datash: data structure (args and inputs)
  * Return: Return 0 Always
 */
 int get_help(data_shell *datash)
