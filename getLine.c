@@ -35,7 +35,7 @@ void bring_line(char **lineptr, size_t *n, char *buffer, size_t j)
 }
 /**
  * get_line - Read inpt from stream
- * @lineptr: buffer that stores the input
+ * @lineptr: buffer that stores the input from get_line
  * @n: size of lineptr
  * @stream: stream to read from
  * Return: The number of bytes
