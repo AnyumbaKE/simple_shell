@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * __strdup - duplicates a str in the heap memory
+ * _strdup - duplicates a str in the heap memory
  * @s: Type char pointer str
  * Return: duplicate
  **/
@@ -103,7 +103,6 @@ char *_strtok(char str[], const char *delim)
 		if (bool == 0 && *splitted)
 			bool = 1;
 	}
-
 	if (bool == 0)
 		return (NULL);
 	return (str_start);
