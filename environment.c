@@ -4,7 +4,6 @@
  * cmp_env_name - compares env variables
  * @nenv: name of the environment variable
  * @name: name passed
- *
  * Return: 0 or any value
  */
 int cmp_env_name(const char *nenv, const char *name)
