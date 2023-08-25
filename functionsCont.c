@@ -58,7 +58,7 @@ int _strcmp(char *s1, char *s2)
 	return (0);
 }
 /**
- * _strchr - locates a character in a string
+ * _strchr - a function thst locates a character in a string
  * @s: string
  * @c: character
  * Return: pointer
