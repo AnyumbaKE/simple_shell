@@ -168,7 +168,7 @@ int is_executable(data_shell *datash);
 int check_error_cmd(char *dir, data_shell *datash);
 int cmd_exec(data_shell *datash);
 
-/* environment functions */
+/* environment.c & environmentCont.c functions */
 char *_getenv(const char *name, char **_environ);
 int _env(data_shell *datash);
 char *copy_info(char *name, char *value);
