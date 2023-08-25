@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * cd_dot - changes to the parent directory
+ * cd_dot - a function that changes to the parent directory
  *
  * @datash: data relevant (environ)
  *
