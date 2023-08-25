@@ -121,7 +121,7 @@ char *_strtok(char str[], const char *delim);
 int _isdigit(const char *s);
 void rev_string(char *s);
 
-/* errorCont.c functions */
+/* error.c & errorCont.c functions */
 int repeated_char(char *input, int i);
 int error_sep_op(char *input, int i, char last);
 int first_char(char *input, int *i);
