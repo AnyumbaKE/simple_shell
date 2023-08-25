@@ -2,7 +2,7 @@
 /**
  * free_line_list - frees a line_list
  * @head: head of the linked list
- * Return: 0 Always
+ * Return: no return
  **/
 void free_line_list(line_list **head)
 {
