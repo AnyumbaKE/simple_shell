@@ -1,7 +1,7 @@
 #include "shell.h"
 /**
  * help - Help information for the builtin help
- * Return: no return
+ * Return: no return value
  **/
 void help(void)
 {
