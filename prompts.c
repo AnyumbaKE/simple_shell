@@ -7,6 +7,8 @@
  */
 int prompt_design(void)
 {
+	/* prompts the user to input*/
+
 	char *prompt = "<3 ";
 
 	write(STDOUT_FILENO, prompt, 3);
