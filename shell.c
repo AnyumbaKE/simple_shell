@@ -49,7 +49,6 @@ void set_data(data_shell *datash, char **av)
 
 /**
  * main - Entry point
- *
  * @ac: argument count
  * @av: argument vector
  *
