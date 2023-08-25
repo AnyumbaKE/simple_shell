@@ -138,7 +138,7 @@ char *error_permission(char **args);
 char *error_path_126(data_shell *datash);
 int get_error(data_shell *datash, int eval);
 
-/*loop functions */
+/*shellLoop functions */
 char *without_comment(char *in);
 void shell_loop(data_shell *datash);
 
