@@ -109,7 +109,7 @@ char *error_not_found(data_shell *datash)
 	return (error);
 }
 /**
- * error_exit_shell - generic error message for exit in get_exit
+ * error_exit_shell - generate error message for exit in get_exit
  * @datash: data relevant (counter, arguments)
  * Return: Error message
  **/
