@@ -92,6 +92,7 @@ typedef struct builtin_s
 	int (*f)(data_shell *datash);
 } builtin_t;
 
+/* prompts.c function*/
 int prompt_design(void);
 
 /* lists.c & listsCont.c functions */
