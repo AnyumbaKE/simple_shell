@@ -22,7 +22,7 @@ int exit_shell(data_shell *datash)
 		{
 			get_error(datash, 2);
 			datash->status = 2;
-			return (1);
+			return (1);/* exits from the terminal*/
 		}
 		datash->status = (ustatus % 256);
 	}
