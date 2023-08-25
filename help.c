@@ -34,6 +34,7 @@ void help_general(void)
 	write(STDOUT_FILENO, help, _strlen(help));
 	help = "unsetenv [variable]\n";
 	write(STDOUT_FILENO, help, _strlen(help));
+	/* helps the user to access man file*/
 }
 /**
  * help_env - Help information for the builtin env
