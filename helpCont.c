@@ -10,6 +10,7 @@ void help_unsetenv(void)
 	write(STDOUT_FILENO, help, _strlen(help));
 	help = "Remove an entry completely from the environment\n";
 	write(STDOUT_FILENO, help, _strlen(help));
+	/* deletes inputs*/
 }
 /**
  * help_alias - Help information for the builtin alias
