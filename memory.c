@@ -53,7 +53,7 @@ void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size)
  * @ptr: double pointer to the memory previously allocated
  * @old_size: size, in bytes, of the allocated space of ptr
  * @new_size: new size, in bytes, of the new memory block
- * Return: ptr
+ * Return: new ptr
  **/
 char **_reallocdp(char **ptr, unsigned int old_size, unsigned int new_size)
 {
