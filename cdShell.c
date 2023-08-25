@@ -14,7 +14,7 @@ int cd_shell(data_shell *datash)
 
 	if (dir != NULL)
 	{
-		ishome = _strcmp("$HOME", dir);
+		ishome = _strcmp("$HOME", dir); /* PATH to HOME*/
 		ishome2 = _strcmp("~", dir);
 		isddash = _strcmp("--", dir);
 	}
