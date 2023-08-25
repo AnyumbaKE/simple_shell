@@ -156,8 +156,7 @@ int check_error_cmd(char *dir, data_shell *datash)
 
 /**
  * cmd_exec - executes command lines
- *
- * @datash: data relevant (args and input)
+ * @datash: data relevant (args & input)
  * Return: 1 on success.
  */
 int cmd_exec(data_shell *datash)
