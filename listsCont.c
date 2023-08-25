@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * add_line_node_end - adds a command line at the end
+ * add_line_node_end - adds a command line at the end list
  * @head: head of the linked list
  * @line: command line
  * Return: address of the head
