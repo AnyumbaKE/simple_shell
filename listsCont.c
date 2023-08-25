@@ -34,7 +34,7 @@ line_list *add_line_node_end(line_list **head, char *line)
  * add_sep_node_end - adds a separator found at the end
  * @head: head of the linked list
  * @sep: separator found (; | &)
- * Return: address
+ * Return: address of the head
  **/
 sep_list *add_sep_node_end(sep_list **head, char sep)
 {
