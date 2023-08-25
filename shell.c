@@ -1,5 +1,4 @@
 #include "shell.h"
-
 /**
  * free_data - frees data structure
  * @datash: data structure
