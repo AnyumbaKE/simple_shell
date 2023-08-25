@@ -2,9 +2,7 @@
 
 /**
  * cd_dot - a function that changes to the parent directory
- *
  * @datash: data relevant (environ)
- *
  * Return: no return
  */
 void cd_dot(data_shell *datash)
@@ -20,7 +18,7 @@ void cd_dot(data_shell *datash)
 	{
 		set_env("PWD", cp_pwd, datash);
 		free(cp_pwd);
-		return;
+		return; /* changes directory to previous directory*/
 	}
 	if (_strcmp("/", cp_pwd) == 0)
 	{
