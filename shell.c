@@ -46,7 +46,6 @@ void set_data(data_shell *datash, char **av)
 	datash->_environ[i] = NULL;
 	datash->pid = aux_itoa(getpid());
 }
-
 /**
  * main - Entry point
  * @ac: argument count
