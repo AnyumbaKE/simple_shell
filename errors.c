@@ -23,6 +23,7 @@ char *error_env(data_shell *datash)
 		free(ver_str);
 		return (NULL);
 	}
+/* strings*/
 
 	_strcpy(error, datash->av[0]);
 	_strcat(error, ": ");
