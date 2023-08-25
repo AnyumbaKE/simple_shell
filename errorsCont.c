@@ -105,6 +105,8 @@ char *error_not_found(data_shell *datash)
 	_strcat(error, datash->args[0]);
 	_strcat(error, ": not found\n");
 	_strcat(error, "\0");
+	free(ver_str);
+	return (error);
 }
 /**
  * error_exit_shell - generic error message for exit in get_exit
