@@ -192,7 +192,7 @@ int get_len(int n);
 char *aux_itoa(int n);
 int _atoi(char *s);
 
-/* signal */
+/* getSignal.c*/
 void get_sigint(int sig);
 
 /* help.c & helpCont.c functions */
