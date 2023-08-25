@@ -1,8 +1,7 @@
 #include "shell.h"
 
 /**
- * cmp_env_name - compares env variables names
- * with the name passed.
+ * cmp_env_name - compares env variables
  * @nenv: name of the environment variable
  * @name: name passed
  *
