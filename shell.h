@@ -195,7 +195,7 @@ int _atoi(char *s);
 /* signal */
 void get_sigint(int sig);
 
-/* help functions */
+/* help.c & helpCont.c functions */
 void help_env(void);
 void help_setenv(void);
 void help_unsetenv(void);
