@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * get_len - get the length of a number
+ * get_len - function that gets the length of a number
  * @n: int
  * Return: lenght of a number
  **/
