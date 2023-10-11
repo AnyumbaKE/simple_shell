@@ -8,5 +8,3 @@ Your shell should not have any memory leaks. \
 No more than 5 functions per file. \
 All your header files should be include guarded. \
 Use system calls only when you need to (why?). \
-Write a README with the description of your project
-You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. Format, see Docker
